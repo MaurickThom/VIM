@@ -42,4 +42,12 @@ Una ves instalado lo siguiente sera mejorar el aspecto visual en mi caso colocar
 Para realizar esto debemos entender los siguiente que vim tiene dos componentes básicos la zona de comandos y la zona de inserción 
 
 **Zona de comandos**
+
 ![Zona de comandos](../img/ZonaDeComandos.png)
+
+Acontinucion pulsamos el boton ESC es decir escape para entrar a la zona de comandos
+y escribimos lo siguiente
+
+```sh
+    :set number
+```
