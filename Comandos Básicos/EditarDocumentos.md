@@ -11,3 +11,7 @@ Con la tecla `.` se repitirá el último comando
 Connla tecla `v` se colocara en modo visual y se seleccionara los bloques segun el cursor 
 **Todo  esto debe ser desde la zona de comandos**
 Para mas atajos visite [**AQUÍ**](https://juanjoalvarez.net/es/detail/2009/jun/25/vim-en-2-minutos/)
+Para reemplazar todas las palabra de un texto  se utilizará lo siguiente 
+```sh
+	:%/palabraAReemplazar/reemplazo/g
+```
