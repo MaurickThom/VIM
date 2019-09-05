@@ -21,9 +21,9 @@ Plug 'morhetz/gruvbox'
 Plug 'scrooloose/nerdtree'
 
 call plug#end()
-
-"colorscheme gruvbox
-"let g:gruvbox_contrast_dark = "hard"
+set bg=dark
+colorscheme gruvbox
+let g:gruvbox_contrast_dark = "medium"
 
 let mapleader=" "
 nmap <Leader>nt : NERDTreeFind<CR>
