@@ -1,6 +1,6 @@
 #
 
-[VIM]('./img/vim.png')
+![VIM]('./img/vim.png')
 
 ```python
 	# Autor : Thom Maurick Roman Aguilar
