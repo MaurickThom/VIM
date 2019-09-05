@@ -1,13 +1,10 @@
 // Código del curso de vim en UDEMY https://github.com/nschurman
-
 // funcion de suma total
 const suma = (ns) => {
   let acumulado = 0;
   for (i = 0; i < ns.length; i++){
- 
     acumulado += ns[i];
   }
-
   return acumulado
 } 
 
