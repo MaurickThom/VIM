@@ -9,3 +9,5 @@ set showmatch
 set sw=2
 set relativenumber
 set clipboard=unnamed
+set laststatus=2
+
