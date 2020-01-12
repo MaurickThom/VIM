@@ -1,7 +1,5 @@
 #
 
-![vim](img/vim.png)
-
 > Amo mi terminal <3 :3
 ![vim](img/terminal.png)
 
